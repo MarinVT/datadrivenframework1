@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16260" started-at="2019-10-28T17:03:01 EET" finished-at="2019-10-28T17:03:17 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16260" started-at="2019-10-28T17:03:01 EET" finished-at="2019-10-28T17:03:17 EET">
+      <class name="com.datadriver.framework.test.LoginTest">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.datadriver.framework.test.LoginTest@7e9a5fbe]" name="testOne" duration-ms="15753" started-at="2019-10-28T17:03:01 EET" finished-at="2019-10-28T17:03:17 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.datadriver.framework.test.LoginTest@7e9a5fbe]" name="endReport" is-config="true" duration-ms="474" started-at="2019-10-28T17:03:17 EET" finished-at="2019-10-28T17:03:17 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.datadriver.framework.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
