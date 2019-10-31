@@ -6,7 +6,8 @@ import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 
 public class ExtendReportManager {
 	
-// Test
+// Test 1
+	/// test 2
 //	public static ExtentHtmlReporter htmlReporter;
 	public static ExtentReports report;
 
