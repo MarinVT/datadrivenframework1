@@ -11,6 +11,8 @@ import com.datadriver.framework.utils.ExtendReportManager;
 
 public class LoginTest extends BaseUI {
 	
+	//Test git + github
+	
 	ExtentReports report = ExtendReportManager.getReportInstance();
 	
 	@Test
