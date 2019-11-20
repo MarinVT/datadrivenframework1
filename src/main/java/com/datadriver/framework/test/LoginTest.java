@@ -40,7 +40,7 @@ public class LoginTest extends BaseUI {
 		
 		takeScreenShotFailure();
 	}
-	
+	  
 	@AfterTest
 	public void endReport() {
 		report.flush();
