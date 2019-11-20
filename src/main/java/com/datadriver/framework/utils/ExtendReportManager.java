@@ -8,6 +8,7 @@ public class ExtendReportManager {
 	
 // Test 1 12313123
 	/// test 2
+	//Test git + github 2222
 //	public static ExtentHtmlReporter htmlReporter;
 	public static ExtentReports report;
 
